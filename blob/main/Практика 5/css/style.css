@@ -1,0 +1,45 @@
+@import url(reset.css);
+
+.flex-container {
+    position: absolute;
+    width: 1440px;
+    height: 225px;
+    left: 0px;
+    top: 0px;
+
+    background: #D7BE67;
+}
+
+.header-container {
+    position: absolute;
+    width: 207px;
+    height: 70px;
+    left: 134px;
+    top: 77px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+
+    color: #000000;
+}
+
+.image {
+    position: absolute;
+    width: 1440px;
+    height: 1626px;
+    left: 0px;
+    top: 225px;
+}
+
+.flex-item {
+    position: absolute;
+    width: 470px;
+    height: 715px;
+    left: 2px;
+    top: 1851px;
+
+    background: #D7BE67;
+}
